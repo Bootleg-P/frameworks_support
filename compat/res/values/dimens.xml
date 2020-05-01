@@ -23,7 +23,7 @@
     <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
 
     <!-- Default rounded corner for controls -->
-    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_control_corner_material">20dp</dimen>
 
     <!-- The width of the big icons in notifications. -->
     <dimen name="notification_large_icon_width">64dp</dimen>
